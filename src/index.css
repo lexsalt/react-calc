@@ -127,8 +127,8 @@ p {
 }
 .pad-bank {
   display: grid;
-  grid-template-columns: 50px 50px 50px 50px;
-  grid-template-rows: 100px 50px 50px 50px 50px 50px;
+  grid-template-columns: 75px 75px 75px 75px;
+  grid-template-rows: 125px 75px 75px 75px 75px 75px;
   grid-template-areas:
     "display display display display"
     "clear clear operator2 operator2"
